@@ -218,14 +218,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name - [Your Website](https://your-website.com)
+Multicolor - [Buy Me Coffe](https://ko-fi.com/multicolorplugins)
 
-## Support
-
-- 🐛 [Report Issues](https://github.com/yourusername/getsimple-headless-api/issues)
-- 📖 [Documentation](https://github.com/yourusername/getsimple-headless-api/wiki)
-- 💬 [Discussions](https://github.com/yourusername/getsimple-headless-api/discussions)
-
+ 
 ## Acknowledgments
 
 - Built for [GetSimple CMS](http://get-simple.info/)
