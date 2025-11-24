@@ -196,17 +196,13 @@ text
 
 ## Changelog
 
-### Version 1.2
+### Version 1.0
 - Added automatic SimpleBlog database structure detection
 - Fixed compatibility with different SimpleBlog versions
 - Improved error handling for missing columns
-
-### Version 1.1
 - Added SimpleBlog integration
 - Added blog endpoints (posts, categories, comments)
 - Improved API documentation
-
-### Version 1.0
 - Initial release
 - CMS endpoints (pages, menu, navigation, search)
 - API key authentication
